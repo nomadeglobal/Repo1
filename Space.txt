@@ -12,6 +12,14 @@ Three main elements to consider:
 - Activity
 
 \section{Theme 2: Mosaic recherche}
+
+Message,
+Bonjour à tous,
+
+Comme les années précédentes, noua organisons les journées de la recherche Mosaic en amont de l'école de Printemps Mosaic Lille, le Lundi 14 Mai toute la journée et le matin du 15 Mai.
+Il s'agit d'une opportunité pour nous encontrer de manière non formelle, au delà des présentations de papier, et mettre à jour nos agendas de recherche et parthager nos idées pour le futur au sein du réseau étendu Mosaic.
+
+
 Programme Mosaic Lille recherche
 
 Format: présentation et atelier libre. Nous voulons prendre le temps de nous rencontrer de manière plus libre afin de parler de nos intérêts, projets en cours, questionnements théoriques et avancées sur des champs autour de l'innovation , de la conception, des écosystèmes innovants, de la question des performances (aussi dans l'acception du performing), des apprches collaboratives et design, du Management. Nous centrons ces journées sur des questions de connectivité dans l'innovation, de la résilience, et ... 
@@ -22,7 +30,7 @@ Patrick Cohendet: dernières nouvelles de la recherche en innovation
 Laurent Simon
 Stéphane Vincent
 Patrick Llerena
-SXB 2
+Thierry Burger-Helmchen burger@unistra.fr
 Gilles Garel
 
 
@@ -31,10 +39,11 @@ Lundi 14 Mai - Après-midi
 
 Ateliers chantiers du futur
 - ecosystèmes dans le monde de la santé (MTL, Lille, SXB)
-- formation Moaic à l'innovation, créativité et
+- formation Moaic à l'innovation, créativité et codesign
 - travaux et labo sur l'innovation publique
 - Workshop AIMS de Octobre 2018 à Montréal
 - Journée de recherche en collaboration avc l'ESPE: espaces, jeux et innovation
+
 
 
 Mardi 15 Mai - matinée
