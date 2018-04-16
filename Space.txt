@@ -11,9 +11,14 @@ Three main elements to consider:
 - Community
 - Activity
 
+\section{Theme 2: Mosaic recherche}
 Programme Mosaic Lille recherche
 
 Format: présentation et atelier libre. Nous voulons prendre le temps de nous rencontrer de manière plus libre afin de parler de nos intérêts, projets en cours, questionnements théoriques et avancées sur des champs autour de l'innovation , de la conception, des écosystèmes innovants, de la question des performances (aussi dans l'acception du performing), des apprches collaboratives et design, du Management. Nous centrons ces journées sur des questions de connectivité dans l'innovation, de la résilience, et ... 
+
+Patrick Cohendet: dernières nouvelles de la recherche en innovation
+Laurent Simon
+Stéphane Vincent
 
 
 Lundi 14 Mai - Matinée
@@ -26,6 +31,7 @@ Lundi 14 Mai - Après-midi
 Ateliers chantiers du futur
 - ecosystèmes dans le monde de la santé (MTL, Lille, SXB)
 - formation Moaic à l'innovation, créativité et
+- travaux et labo sur l'innovation publique
 - Workshop AIMS de Octobre 2018 à Montréal
 - Journée de recherche en collaboration avc l'ESPE: espaces, jeux et innovation
 
