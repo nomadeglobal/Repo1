@@ -49,3 +49,9 @@ Matinée doctorants et projets de doctorat ou projets d'article
 
 Mardi 15 Mai - après-midi démarrage des journées Mosaic Lille.
 
+Let's try to see how the visual mode works with Vim.
+It is a bizarre little and is playing a bit the geek.
+Let's try to see how the little and the visual mode works with Vim.visual mode  
+Let's try to see how the little and the visual mode works with Vim.visual mode  
+
+and the reason why is that 
